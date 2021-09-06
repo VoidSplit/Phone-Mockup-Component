@@ -1,9 +1,9 @@
-# What is this script for?
+## What is this script for?
 
 This script allows you to create phone mockups easily and quickly, of different models and different colors
 
 
-# How to use the script?
+## How to use the script?
 
 Put this script tag at the bottom of the page
 ```html
@@ -15,7 +15,7 @@ And use the `<phone-mockup></phone-mockup>` HTML Tag.
 
 As parameter you need to user the "model" of the phone and the "color".
 
-### Example:
+## Example:
 ```html
 <phone-mockup model="Galaxy Note 3" color="black"></phone-mockup>
 ```
