@@ -19,6 +19,7 @@ Use this `script` HTML tag at the bottom of your html file for the latest versio
 - red
 - black
 - white
+- green
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -52,6 +53,7 @@ Utilisez cette balise `script` HTML en bas de votre fichier html pour la derniè
 - red
 - black
 - white
+- green
 
 ## Contribuer
 Les pull requests sont la bienvenue. Pour des changements majeurs, veuillez ouvrir une issue d'abord pour discutez de ce que vous voulez changer.
