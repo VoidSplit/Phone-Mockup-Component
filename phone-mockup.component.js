@@ -50,23 +50,23 @@ class PhoneMockupElement extends HTMLElement {
                 --b6: #7C7F81
             }
             .pm-w.red  {
-                --bg: #C75656;
+                --bg: #C93E3E;
                 --ts: #492626;
                 --tnc: #FFCECE;
                 --tc: #FFFFFF;
 
-                --gc1: #BE6363;
-                --gc2: #943D3D;
-                --gc3: #AD2E2E;
-                --gc4: #8A3E3E;
-                --gc5: #C88989;
+                --gc1: #C93E3E;
+                --gc2: #A32020;
+                --gc3: #9C2D2D;
+                --gc4: #722222;
+                --gc5: #FF6D6D;
 
-                --b1: #834040;
-                --b2: #DA8C8C;
-                --b3: #B85D5D;
-                --b4: #D35757;
-                --b5: #A36565;
-                --b6: #814242
+                --b1: #722222;
+                --b2: #E25E5E;
+                --b3: #C53838;
+                --b4: #D84C4C;
+                --b5: #962C2C;
+                --b6: #722222
             }
             .pm-w.blue  {
                 --bg: #639ABE;
@@ -86,6 +86,25 @@ class PhoneMockupElement extends HTMLElement {
                 --b4: #4D7F96;
                 --b5: #455F77;
                 --b6: #305168
+            }
+            .pm-w.green  {
+                --bg: #63BE6B;
+                --ts: #304926;
+                --tnc: #CEFFCE;
+                --tc: #FFFFFF;
+
+                --gc1: #6BBE63;
+                --gc2: #44943D;
+                --gc3: #236823;
+                --gc4: #236423;
+                --gc5: #8EC889;
+
+                --b1: #488340;
+                --b2: #92DA8C;
+                --b3: #5DB85D;
+                --b4: #4D9651;
+                --b5: #45774D;
+                --b6: #356830
             }
 
             * {
