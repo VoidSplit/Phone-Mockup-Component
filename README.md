@@ -10,6 +10,7 @@ Use this `script` HTML tag at the bottom of your html file for the latest versio
 ```html
 <phone-mockup model="Galaxy Note 3" color="black"></phone-mockup> <!-- Return a HTML & CSS black mockup of a Galaxy Note 3 device. -->
 ```
+Do not use vh or vw but % in your css to avoid any size problem.
 
 ## Parameters
 #### Models
@@ -44,6 +45,7 @@ Utilisez cette balise `script` HTML en bas de votre fichier html pour la derniè
 ```html
 <phone-mockup model="Galaxy Note 3" color="black"></phone-mockup> <!-- Retourne un mockup HTML & CSS de couleur noir d'un Galaxy Note 3. -->
 ```
+Ne pas utiliser vh ou vw mais % dans votre css pour éviter tout problème de taille
 
 ## Paramètres
 #### Models
